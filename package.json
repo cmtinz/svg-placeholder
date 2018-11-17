@@ -1,0 +1,23 @@
+{
+  "name": "svg-placeholder",
+  "version": "1.0.0",
+  "description": "Returns a SVG placeholder of given specificaction.",
+  "main": "svg-placeholder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmtinz/svg-placeholder.git"
+  },
+  "keywords": [
+    "placeholder",
+    "svg"
+  ],
+  "author": "Carlos Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmtinz/svg-placeholder/issues"
+  },
+  "homepage": "https://github.com/cmtinz/svg-placeholder#readme"
+}
